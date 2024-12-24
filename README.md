@@ -32,8 +32,3 @@ This project focuses on advancing aeronautical communication technologies to enh
 This project paves the way for a safer, more efficient aviation industry by tackling challenges such as frequency congestion and system compatibility. It highlights the benefits of modernizing aeronautical communication to improve air traffic management, enhance safety, and reduce environmental impacts.
 
 ---
-
-## Setup Instructions
-1. Clone the repository to your local machine.
-2. Install MATLAB and necessary toolboxes for communication system simulation.
-3. Load the provided MATLAB scripts to explore algorithms for noise reduction, error correction, and data modulation/demodulation.
